@@ -1,0 +1,111 @@
+Operative 2 has arrived at typewriting station at time 1
+Operative 2 started document recreation at station TS2 at time 1
+Intelligence Staff 2 began reviewing logbook at time 1. Operations completed = 0
+Operative 17 has arrived at typewriting station at time 1
+Operative 17 started document recreation at station TS1 at time 1
+Operative 2 has completed document recreation at time 1
+Operative 17 has completed document recreation at time 1
+Operative 1 has arrived at typewriting station at time 2
+Operative 1 started document recreation at station TS1 at time 2
+Operative 9 has arrived at typewriting station at time 2
+Operative 7 has arrived at typewriting station at time 2
+Operative 7 started document recreation at station TS3 at time 2
+Operative 16 has arrived at typewriting station at time 2
+Operative 16 started document recreation at station TS4 at time 2
+Operative 23 has arrived at typewriting station at time 2
+Operative 21 has arrived at typewriting station at time 2
+Operative 25 has arrived at typewriting station at time 2
+Operative 1 has completed document recreation at time 2
+Operative 7 has completed document recreation at time 2
+Operative 16 has completed document recreation at time 2
+Operative 9 started document recreation at station TS1 at time 2
+Operative 23 started document recreation at station TS3 at time 2
+Operative 4 has arrived at typewriting station at time 3
+Operative 4 started document recreation at station TS4 at time 3
+Operative 14 has arrived at typewriting station at time 3
+Operative 14 started document recreation at station TS2 at time 3
+Operative 11 has arrived at typewriting station at time 3
+Operative 6 has arrived at typewriting station at time 3
+Operative 15 has arrived at typewriting station at time 3
+Operative 19 has arrived at typewriting station at time 3
+Operative 24 has arrived at typewriting station at time 3
+Operative 27 has arrived at typewriting station at time 3
+Operative 9 has completed document recreation at time 3
+Operative 23 has completed document recreation at time 3
+Operative 11 started document recreation at station TS3 at time 3
+Operative 21 started document recreation at station TS1 at time 3
+Operative 4 has completed document recreation at time 3
+Operative 14 has completed document recreation at time 3
+Operative 6 started document recreation at station TS2 at time 3
+Operative 24 started document recreation at station TS4 at time 3
+Operative 11 has completed document recreation at time 3
+Operative 21 has completed document recreation at time 3
+Operative 27 started document recreation at station TS3 at time 3
+Operative 25 started document recreation at station TS1 at time 3
+Operative 3 has arrived at typewriting station at time 4
+Operative 5 has arrived at typewriting station at time 4
+Operative 10 has arrived at typewriting station at time 4
+Operative 13 has arrived at typewriting station at time 4
+Operative 18 has arrived at typewriting station at time 4
+Operative 12 has arrived at typewriting station at time 4
+Operative 22 has arrived at typewriting station at time 4
+Operative 26 has arrived at typewriting station at time 4
+Operative 6 has completed document recreation at time 4
+Operative 24 has completed document recreation at time 4
+Operative 18 started document recreation at station TS2 at time 4
+Operative 12 started document recreation at station TS4 at time 4
+Operative 27 has completed document recreation at time 4
+Operative 25 has completed document recreation at time 4
+Operative 3 started document recreation at station TS3 at time 4
+Operative 13 started document recreation at station TS1 at time 4
+Operative 18 has completed document recreation at time 4
+Unit 6 has completed document recreation phase at time 4
+Operative 12 has completed document recreation at time 4
+Operative 10 started document recreation at station TS2 at time 4
+Operative 3 has completed document recreation at time 4
+Unit 1 has completed document recreation phase at time 4
+Operative 13 has completed document recreation at time 4
+Operative 5 started document recreation at station TS1 at time 4
+Operative 15 started document recreation at station TS3 at time 4
+Operative 8 has arrived at typewriting station at time 5
+Operative 8 started document recreation at station TS4 at time 5
+Operative 20 has arrived at typewriting station at time 5
+Unit 6 leader (Operative 18) accessing logbook at time 5
+Operative 10 has completed document recreation at time 5
+Operative 26 started document recreation at station TS2 at time 5
+Operative 5 has completed document recreation at time 5
+Operative 15 has completed document recreation at time 5
+Unit 5 has completed document recreation phase at time 5
+Operative 19 started document recreation at station TS3 at time 5
+Unit 2 has completed document recreation phase at time 5
+Unit 4 has completed document recreation phase at time 5
+Operative 8 has completed document recreation at time 5
+Operative 20 started document recreation at station TS4 at time 5
+Unit 3 has completed document recreation phase at time 5
+Operative 26 has completed document recreation at time 5
+Operative 22 started document recreation at station TS2 at time 5
+Operative 19 has completed document recreation at time 5
+Unit 9 has completed document recreation phase at time 5
+Operative 20 has completed document recreation at time 6
+Unit 7 has completed document recreation phase at time 6
+Operative 22 has completed document recreation at time 6
+Unit 8 has completed document recreation phase at time 6
+Unit 6 has completed intelligence distribution at time 15
+Unit 1 leader (Operative 3) accessing logbook at time 15
+Unit 1 has completed intelligence distribution at time 25
+Unit 5 leader (Operative 15) accessing logbook at time 25
+Unit 5 has completed intelligence distribution at time 35
+Unit 2 leader (Operative 6) accessing logbook at time 35
+Unit 2 has completed intelligence distribution at time 45
+Unit 4 leader (Operative 12) accessing logbook at time 45
+Unit 4 has completed intelligence distribution at time 55
+Unit 3 leader (Operative 9) accessing logbook at time 55
+Unit 3 has completed intelligence distribution at time 65
+Unit 9 leader (Operative 27) accessing logbook at time 65
+Unit 9 has completed intelligence distribution at time 75
+Unit 7 leader (Operative 21) accessing logbook at time 75
+Unit 7 has completed intelligence distribution at time 85
+Unit 8 leader (Operative 24) accessing logbook at time 85
+Unit 8 has completed intelligence distribution at time 95
+Intelligence Staff 1 began reviewing logbook at time 95. Operations completed = 9
+Intelligence Staff 2 began reviewing logbook at time 95. Operations completed = 9

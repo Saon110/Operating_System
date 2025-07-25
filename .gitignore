@@ -1,0 +1,9 @@
+*.exe
+*.out
+xv6/
+Task_2.patch
+Task_1.patch
+2105110_task_2.patch
+2105110_task_1.patch
+.vscode/
+*.zip
